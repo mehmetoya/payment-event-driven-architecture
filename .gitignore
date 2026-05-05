@@ -1,0 +1,39 @@
+## .NET gitignore
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.vscode/
+*.swp
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+
+# NuGet
+*.nupkg
+*.nuget.targets
+packages/
+project.lock.json
+
+# User-specific
+*.rsuser
+.idea/
+
+# Docker
+.docker/
+
+# Secrets / env
+appsettings.Development.json
+*.pfx
+*.p12
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
