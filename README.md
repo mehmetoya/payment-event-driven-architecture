@@ -166,4 +166,4 @@ Stop RabbitMQ, create a payment → it persists to DB. Start RabbitMQ → Outbox
 
 *Event-Driven Architecture in Payments: Outbox, Saga, DLQ, and Idempotent Consumers in .NET 8*
 
-— [Link will be added after publication]
+— [https://mehmetoya.tr/posts/2026/payment-eda/]
